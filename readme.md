@@ -1,3 +1,3 @@
 # new file
 
-[link](ww.google.com)
+[link](www.google.com)
